@@ -1,0 +1,47 @@
+h1{color: #232425;}
+body{background: #F9FCFF;}
+h4 {
+    
+    color: #000000;
+    font-family: fantasy;
+    font-size: 225%;
+}
+link {
+    color: deeppink;
+    background-color: transparent;
+    text-decoration: none;
+}
+<h4>link colors</h4>
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+p {
+    font-family: courier;
+    font font-size: 150%; 
+}
+div.a {
+  text-align: center;
+}
+p {
+  margin: 25px 50px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.audio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+figure {
+    margin: 0;
+div.centerplayer {
+margin-right: auto;
+margin-left: auto;
+}
